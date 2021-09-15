@@ -1,0 +1,95 @@
+h1 {
+  font-size: 40px;
+}
+p,
+nav {
+  font-family: 'Basic', sans-serif;
+}
+a {
+  padding: 0 15px;
+}
+h2 {
+  color: white;
+  font-family: 'Dancing Script', cursive;
+}
+.logo {
+  padding-top: 20px;
+}
+body {
+  margin: 0;
+  text-align: center;
+  padding: 0;
+}
+header {
+  background-color: rgb(30, 135, 177);
+  margin-left: auto;
+  margin-right: auto;
+}
+footer {
+  background-color: rgb(30, 135, 177);
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+  margin-top: 80px
+}
+
+nav {
+  padding: 10px;
+  font-size: 17px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+.baslik {
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 13px;
+  color: rgb(3, 94, 129);
+}
+.baslik-2 {
+  font-size: 30px;
+  padding-top: 10px;
+  color: rgb(240, 240, 240);
+}
+.books-bigcontainer {
+  width: 100%;
+  margin-bottom: 50px;
+  display: grid;
+}
+.books-container {
+  display: flex;
+  margin: 0 auto;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+}
+.book {
+  /* margin-left: auto;
+  margin-right: auto; */  
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+.cover-img {
+  border: 1px solid;
+  border-color: darkgray;
+}
+.info {
+  margin: 2px 0;
+}
+
+.hakkimizda-container {
+  margin: 0 200px;
+}
+
+.card-size {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.btn-color {
+  background-color: rgb(30, 135, 177);
+color: white;
+}
